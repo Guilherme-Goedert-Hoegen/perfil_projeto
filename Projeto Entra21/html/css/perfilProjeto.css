@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Comfortaa', sans-serif;
+    text-align: center;
+    
+    
+    
+}
+
+
+body{
+    background-image: linear-gradient(to right, blue,
+     white);
+    color: black;
+    
+}
+
+form{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+input{
+    font-size: large;
+    border-radius: 5px
+    
+    
+    
+}
+img{
+    border-radius: 50%;
+    
+}button {
+    border-radius: 30px;
+    width: 100px;
+    height: 30px;
+    font-size: large;
+    
+}
+.idade {
+    margin-left: 460px;
+}
